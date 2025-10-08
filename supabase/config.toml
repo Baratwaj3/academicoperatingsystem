@@ -1,0 +1,4 @@
+project_id = "elxvimclllhdztwylwyc"
+
+[functions.generate-report]
+verify_jwt = true
